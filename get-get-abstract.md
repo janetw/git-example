@@ -2,6 +2,8 @@
 
 ## *with Git and GitHub*
 
+This is me, Janet, adding information
+
 Do you have files like `final.txt`, `final_revised.txt`, `final_revised2.txt`, `final_revised2_revised.txt`?
 Version control WILL make your life better! 
 
